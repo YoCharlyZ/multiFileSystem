@@ -31,6 +31,6 @@ _GRACIAS._
 ___________________________________________________________________  
   + __Trabajando :__  
     - [ ] Reservado. (evaluando posibles cambios y mejoras necesarias) [V-0.0.2]()    
-    - [x] Trabajando en Sistema Dual. [V-0.0.1]()  
-    - [x] Trabajando en Sistema Dual. [V-0.0.0]()  
+    - [x] Trabajando en Sistema Dual. [V-0.0.1](https://github.com/YoCharlyZ/multiFileSystem/tree/131484618e21cfbce7901e900c01d16e84928ef0)  
+    - [x] Trabajando en Sistema Dual. [V-0.0.0](https://github.com/YoCharlyZ/multiFileSystem/tree/131484618e21cfbce7901e900c01d16e84928ef0)  
 ___________________________________________________________________  
